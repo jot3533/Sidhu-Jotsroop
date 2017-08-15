@@ -19,6 +19,7 @@ CONTRIBUTERS:               Kilgore Trout
                             Jaiveer Singh
 			    Gustavo Silvera
 			    Christy Koh
+			    Matthew Adrian
 
 USER INSTRUCTIONS:
 
